@@ -1,0 +1,9 @@
+{
+  "appId": "com.universelogic.tagexpiry",
+  "appName": "TagExpiry",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
